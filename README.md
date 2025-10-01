@@ -34,8 +34,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-
-![Thohiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=tohir87&show_icons=true&theme=radical)  
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohir87&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tohir87&theme=radical)
 
