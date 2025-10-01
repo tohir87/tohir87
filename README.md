@@ -54,7 +54,7 @@
 ---
 
 ## 🎓 Education & Certifications
-- 🎓 **MSc in Cybersecurity and Privacy Trust** – Griffith College Dublin  
+- 🎓 **MSc in Cybersecurity and Privacy Trust** – South East Technology University Carlow  
 - 🎓 **BSc (Hons) in Computing Science** – Griffith College Dublin  
 - 📜 **Certificate, Entrepreneurship Essentials** – Harvard Business School Online  
 - 🔐 **LPIC-1**, **Cisco CCNA**, **Advanced SQL for Data Science**, **Big Data & Hadoop**, **MongoDB**  
