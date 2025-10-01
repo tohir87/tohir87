@@ -1,3 +1,6 @@
+# Hi 👋, I'm Thohiru Omoloye  
+🚀 **Enterprise Solution Architect | Software Engineer | Mentor**  
+
 ## 👨‍💻 About Me
 
 I'm a passionate software developer with expertise in building scalable applications and innovative solutions. I love tackling complex problems and turning ideas into reality through clean, efficient code.
@@ -33,6 +36,8 @@ I'm a passionate software developer with expertise in building scalable applicat
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Database & Cloud
@@ -51,40 +56,6 @@ I'm a passionate software developer with expertise in building scalable applicat
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-# Hi 👋, I'm Thohiru Omoloye  
-
-🚀 **Enterprise Solution Architect | Software Engineer | Mentor**  
-💡 Building scalable software solutions, architecting cloud platforms, and leading high-impact teams.  
-
----
-
-## 🌟 About Me
-- 🔭 Currently **Technology Architect @ LearnRight Ltd** (Ireland) — leading LMS solutions with Laravel, Vue, Salesforce & cloud infrastructure.  
-- 🧑‍💻 Over **10 years experience** designing and delivering enterprise-scale applications.  
-- 🌍 Worked across **Ireland, US, Australia, and Nigeria** building products in fintech, edtech, HRIS, and digital agencies.  
-- 🛡 Passionate about **Cybersecurity, Automation, and System Optimization**.  
-- 🎯 Mentor and leader of teams up to **25 developers**, achieving **98% on-time project delivery**.  
-
----
-
-## 🛠 Tech Stack & Skills
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-181717?style=for-the-badge&logo=databricks&logoColor=white)
-
-</div>
 
 ---
 
